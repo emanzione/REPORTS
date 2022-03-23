@@ -23,3 +23,7 @@ I would really like to accept PRs to expand the functionalities of this plugin, 
 All the community contributions will be always free to use and open source.
 
 If you want to contribute, take a look at the [API and Customization documentation](https://github.com/emanzione/REPORTS/wiki/API-and-Customization).
+
+### Contributions
+
+* An ASP.NET Core Web API integration and sample for REPORTS: [here](https://github.com/emanzione/REPORTS/tree/main/Utilities/MHLab.Reports.Backend.Sample)
